@@ -5,6 +5,10 @@
 ## Build Setup
 
 ``` bash
+
+# move to project folder
+cd mymarkdown
+
 # install dependencies
 npm install
 
